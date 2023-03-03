@@ -1,0 +1,11 @@
+1. Cos'è un algoritmo? Prova a spiegarlo con parole tue, come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+L'argoritmo è una serie di istruzione che dicono al computer come gestire tutte le informazione che riceve. 
+Queste informazioni vengono trasmesse attraverso l'Input, il calcolo e infine l'output, cioè l'espressione della risposta.
+
+2. Cos'è una variabile? Prova a spiegarlo con parole tue, come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+Una variabile è tutto ciò che contiene dei dati che a sua volta contengolo valori che possono essere modificati durante l'esecuione di un programma. E una variabile è caratterizzata da un nome, 
+cioè una sequenza di caratteri.
+
+3. undefined e null sono la stessa cosa (falso)
+Undefined e null sono uguali ma non identici nel senso che Null significa che il valore è assente in maniera intenzionale 
+mentre Undefied significa che il valore non esiste.
